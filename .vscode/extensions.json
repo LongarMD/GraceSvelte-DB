@@ -8,6 +8,7 @@
 		"yoavbls.pretty-ts-errors",
 		"esbenp.prettier-vscode",
 		"yzhang.markdown-all-in-one",
-		"cpylua.language-postcss"
+		"cpylua.language-postcss",
+		"prisma.prisma"
 	]
 }
